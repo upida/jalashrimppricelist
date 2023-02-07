@@ -1,0 +1,8 @@
+body {
+  background-color: var(--bs-gray-100);
+}
+
+.VueTables__wrapper {
+  max-height: 500px;
+  overflow-y: scroll;
+}
